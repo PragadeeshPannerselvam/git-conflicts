@@ -1,3 +1,2 @@
-# Deploy notes
 Deploy window: 09:00 UTC and 22:00 UTC
-Contact: ops team
+Contact: oncall rotation
